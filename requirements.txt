@@ -1,0 +1,17 @@
+langchain
+langchain_community
+pypdf
+faiss-cpu
+sentence-transformers
+langchain_google_genai
+streamlit
+tiktoken
+langchain_core
+unstructured[pdf]
+openai
+tiktoken
+langchain_openai
+rank_bm25
+nltk
+unstructured
+redis
