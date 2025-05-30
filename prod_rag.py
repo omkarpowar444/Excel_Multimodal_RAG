@@ -16,7 +16,7 @@ from langchain.cache import RedisCache
 from langchain.globals import set_llm_cache
 
 
-redis_client=redis.Redis(host="gifted_cray" , port=6379 , db=0)
+redis_client=redis.Redis(host="172.17.0.2" , port=6379 , db=0)
 
 nltk.download('punkt')
 
